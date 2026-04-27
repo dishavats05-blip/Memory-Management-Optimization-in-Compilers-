@@ -90,7 +90,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Authors
-- Shalini Kushwaha  
-- Disha Vats  
+## 👩‍💻 Authors  
+- Disha Vats
+- Shalini Kushwaha
 - Jahnavi  
